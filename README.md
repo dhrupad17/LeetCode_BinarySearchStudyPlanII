@@ -7,8 +7,7 @@
 
 | DAYS  | LEETCODE PROBLEM NO |  NAME                         |  DIFFICULTY  |   SOLUTIONS                                                    |
 | :-----| :------------------ | :---------------------------- | :----------- |  :------------------------------------------------------------ |
-| DAY1  | 209                 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | `Medium` |
-
+| DAY1  | 209                 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | `Medium` | 👉 [Click Here](https://github.com/dhrupad17/LeetCode_BinarySearchStudyPlanII/blob/main/DAY1P1.md)
 
 
 
