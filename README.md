@@ -7,10 +7,11 @@
 
 | DAYS  | LEETCODE PROBLEM NO |  NAME                         |  DIFFICULTY  |   SOLUTIONS                                                    |
 | :-----| :------------------ | :---------------------------- | :----------- |  :------------------------------------------------------------ |
-| DAY1  | 209                 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | `Medium` | 👉 [Click Here](https://github.com/dhrupad17/LeetCode_BinarySearchStudyPlanII/blob/main/DAY1P1.md) |
-|     | 611 | [Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/) | `Medium` | 👉 [Click Here](https://github.com/dhrupad17/LeetCode_BinarySearchStudyPlanII/blob/main/DAY1P2.md) |
-| DAY2 | 658 | [Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/) | `Medium` | 👉 [Click Here](https://github.com/dhrupad17/LeetCode_BinarySearchStudyPlanII/blob/main/DAY2P1.md) |
-|    | 1894 | [Find the Student that Will Replace the Chalk](https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk/) | `Medium` | 👉 [Click Here](https://github.com/dhrupad17/LeetCode_BinarySearchStudyPlanII/blob/main/DAY2P2.md) |
+| DAY1  | 209                 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | `Medium` | 👉[Click Here](https://github.com/dhrupad17/LeetCode_BinarySearchStudyPlanII/blob/main/DAY1P1.md) |
+|     | 611 | [Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/) | `Medium` | 👉[Click Here](https://github.com/dhrupad17/LeetCode_BinarySearchStudyPlanII/blob/main/DAY1P2.md) |
+| DAY2 | 658 | [Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/) | `Medium` | 👉[Click Here](https://github.com/dhrupad17/LeetCode_BinarySearchStudyPlanII/blob/main/DAY2P1.md) |
+|    | 1894 | [Find the Student that Will Replace the Chalk](https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk/) | `Medium` | 👉[Click Here](https://github.com/dhrupad17/LeetCode_BinarySearchStudyPlanII/blob/main/DAY2P2.md) |
+| DAY3 | 300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | `Medium` | 👉[Click Here]()
 
 
 
