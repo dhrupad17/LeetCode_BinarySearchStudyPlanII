@@ -23,7 +23,10 @@
 |  | 1818 | [Minimum Absolute Sum Difference](https://leetcode.com/problems/minimum-absolute-sum-difference/) | `Medium` | 👉[Click Here](https://github.com/dhrupad17/LeetCode_BinarySearchStudyPlanII/blob/main/DAY7P2.md) |
 | DAY8 | 240 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | `Medium` | 👉[Click Here](https://github.com/dhrupad17/LeetCode_BinarySearchStudyPlanII/blob/main/DAY8P1.md) |
 |  | 275 | [H-Index II](https://leetcode.com/problems/h-index-ii/) | `Medium` | 👉[Click Here](https://github.com/dhrupad17/LeetCode_BinarySearchStudyPlanII/blob/main/DAY8P2.md) |
-
+| DAY9 | 1838 | [Frequency of the Most Frequent Element](https://leetcode.com/problems/frequency-of-the-most-frequent-element/) | `Medium` | 👉[Click Here](https://github.com/dhrupad17/LeetCode_BinarySearchStudyPlanII/blob/main/DAY9P1.md) |
+|  | 540 | [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) | `Medium` | 👉[Click Here](https://github.com/dhrupad17/LeetCode_BinarySearchStudyPlanII/blob/main/DAY9P2.md) |
+| DAY10 | 222 | [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) | `Medium` | 👉[Click Here](https://github.com/dhrupad17/LeetCode_BinarySearchStudyPlanII/blob/main/DAY10P1.md) |
+|  | 1712 | [Ways to Split Array Into Three Subarrays](https://leetcode.com/problems/ways-to-split-array-into-three-subarrays/) | `Medium` | 👉[Click Here](https://github.com/dhrupad17/LeetCode_BinarySearchStudyPlanII/blob/main/DAY10P2.md) |
 
 
 
