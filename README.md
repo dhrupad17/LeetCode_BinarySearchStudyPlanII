@@ -27,7 +27,8 @@
 |  | 540 | [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) | `Medium` | 👉[Click Here](https://github.com/dhrupad17/LeetCode_BinarySearchStudyPlanII/blob/main/DAY9P2.md) |
 | DAY10 | 222 | [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) | `Medium` | 👉[Click Here](https://github.com/dhrupad17/LeetCode_BinarySearchStudyPlanII/blob/main/DAY10P1.md) |
 |  | 1712 | [Ways to Split Array Into Three Subarrays](https://leetcode.com/problems/ways-to-split-array-into-three-subarrays/) | `Medium` | 👉[Click Here](https://github.com/dhrupad17/LeetCode_BinarySearchStudyPlanII/blob/main/DAY10P2.md) |
-
+| DAY11 | 826 | [Most Profit Assigning Work](https://leetcode.com/problems/most-profit-assigning-work/) | `Medium` | 👉[Click Here](https://github.com/dhrupad17/LeetCode_BinarySearchStudyPlanII/blob/main/DAY11P1.md) |
+|  | 436 | [Find Right Interval](https://leetcode.com/problems/find-right-interval/) | `Medium` | 👉[Click Here](https://github.com/dhrupad17/LeetCode_BinarySearchStudyPlanII/blob/main/DAY11P2.md) |
 
 
 
