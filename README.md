@@ -31,7 +31,8 @@
 |  | 436 | [Find Right Interval](https://leetcode.com/problems/find-right-interval/) | `Medium` | 👉[Click Here](https://github.com/dhrupad17/LeetCode_BinarySearchStudyPlanII/blob/main/DAY11P2.md) |
 | DAY12 | 81 | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | `Medium` | 👉[Click Here](https://github.com/dhrupad17/LeetCode_BinarySearchStudyPlanII/blob/main/DAY12P1.md) |
 |  | 162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | `Medium` | 👉[Click Here](https://github.com/dhrupad17/LeetCode_BinarySearchStudyPlanII/blob/main/DAY12P2.md) |
-
+| DAY13 | 154 | [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | `Hard` | 👉[Click Here](https://github.com/dhrupad17/LeetCode_BinarySearchStudyPlanII/blob/main/DAY13P1.md) |
+|  | 528 | [Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/) | `Medium` | 👉[Click Here](https://github.com/dhrupad17/LeetCode_BinarySearchStudyPlanII/blob/main/DAY13P2.md) |
 
 
 
