@@ -35,7 +35,8 @@
 |  | 528 | [Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/) | `Medium` | 👉[Click Here](https://github.com/dhrupad17/LeetCode_BinarySearchStudyPlanII/blob/main/DAY13P2.md) |
 | DAY14 | 1508 | [Range Sum of Sorted Subarray Sums](https://leetcode.com/problems/range-sum-of-sorted-subarray-sums/) | `Medium` | 👉[Click Here](https://github.com/dhrupad17/LeetCode_BinarySearchStudyPlanII/blob/main/DAY14P1.md) |
 |  | 1574 | [Shortest Subarray to be Removed to Make Array Sorted](https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted/) | `Medium` | 👉[Click Here](https://github.com/dhrupad17/LeetCode_BinarySearchStudyPlanII/blob/main/DAY14P2.md) |
-
+| DAY15 | 1292 | [Maximum Side Length of a Square with Sum Less than or Equal to Threshold](https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/) | `Medium` | 👉[Click Here](https://github.com/dhrupad17/LeetCode_BinarySearchStudyPlanII/blob/main/DAY15P1.md) |
+|  | 1498 | [Number of Subsequences That Satisfy the Given Sum Condition](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/) | `Medium` | 👉[Click Here](https://github.com/dhrupad17/LeetCode_BinarySearchStudyPlanII/blob/main/DAY15P2.md) |
 
 
 
