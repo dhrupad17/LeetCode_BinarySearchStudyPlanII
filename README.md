@@ -45,7 +45,8 @@
 |  | 1300 | [Sum of Mutated Array Closest to Target](https://leetcode.com/problems/sum-of-mutated-array-closest-to-target/) | `Medium` | 👉[Click Here](https://github.com/dhrupad17/LeetCode_BinarySearchStudyPlanII/blob/main/DAY16P2.md) |
 | DAY17 | 1802 | [Maximum Value at a Given Index in a Bounded Array](https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array/) | `Medium` | 👉[Click Here](https://github.com/dhrupad17/LeetCode_BinarySearchStudyPlanII/blob/main/DAY17P1.md) |
 |  | 1901 | [Find a Peak Element II](https://leetcode.com/problems/find-a-peak-element-ii/) | `Medium` | 👉[Click Here](https://github.com/dhrupad17/LeetCode_BinarySearchStudyPlanII/blob/main/DAY17P2.md) |
-
+| DAY18 | 1146 | [Snapshot Array](https://leetcode.com/problems/snapshot-array/) | `Medium` | 👉[Click Here](https://github.com/dhrupad17/LeetCode_BinarySearchStudyPlanII/blob/main/DAY18P1.md) |
+|  | 1488 | [Avoid Flood in The City](https://leetcode.com/problems/avoid-flood-in-the-city/) | `Medium` | 👉[Click Here](https://github.com/dhrupad17/LeetCode_BinarySearchStudyPlanII/blob/main/DAY18P2.md) |
 
 
 
