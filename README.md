@@ -1,7 +1,11 @@
 # [LEETCODE BINARY SEARCH STUDY PLAN II](https://leetcode.com/study-plan/binary-search/?progress=k8xhj25)
+<p float="left">
+  <img src="https://assets.leetcode.com/study_plan/binary-search/cover.png" width="150" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/LeetCode_Logo_black_with_text.svg" width="600" /> 
+</p>
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-![Logo](https://upload.wikimedia.org/wikipedia/commons/0/0a/LeetCode_Logo_black_with_text.svg)
 
 ## Questions
 
