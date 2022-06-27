@@ -47,7 +47,8 @@
 |  | 1901 | [Find a Peak Element II](https://leetcode.com/problems/find-a-peak-element-ii/) | `Medium` | 👉[Click Here](https://github.com/dhrupad17/LeetCode_BinarySearchStudyPlanII/blob/main/DAY17P2.md) |
 | DAY18 | 1146 | [Snapshot Array](https://leetcode.com/problems/snapshot-array/) | `Medium` | 👉[Click Here](https://github.com/dhrupad17/LeetCode_BinarySearchStudyPlanII/blob/main/DAY18P1.md) |
 |  | 1488 | [Avoid Flood in The City](https://leetcode.com/problems/avoid-flood-in-the-city/) | `Medium` | 👉[Click Here](https://github.com/dhrupad17/LeetCode_BinarySearchStudyPlanII/blob/main/DAY18P2.md) |
-
+| DAY19 | 1562 | [Find Latest Group of Size M](https://leetcode.com/problems/find-latest-group-of-size-m/) | `Medium` | 👉[Click Here](https://github.com/dhrupad17/LeetCode_BinarySearchStudyPlanII/blob/main/DAY19P1.md) |
+|  | 1648 | [Sell Diminishing-Valued Colored Balls](https://leetcode.com/problems/sell-diminishing-valued-colored-balls/) | `Medium` | 👉[Click Here](https://github.com/dhrupad17/LeetCode_BinarySearchStudyPlanII/blob/main/DAY19P2.md) |
 
 
 ## 🛠 Skills
