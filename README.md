@@ -49,8 +49,8 @@
 |  | 1488 | [Avoid Flood in The City](https://leetcode.com/problems/avoid-flood-in-the-city/) | `Medium` | 👉[Click Here](https://github.com/dhrupad17/LeetCode_BinarySearchStudyPlanII/blob/main/DAY18P2.md) |
 | DAY19 | 1562 | [Find Latest Group of Size M](https://leetcode.com/problems/find-latest-group-of-size-m/) | `Medium` | 👉[Click Here](https://github.com/dhrupad17/LeetCode_BinarySearchStudyPlanII/blob/main/DAY19P1.md) |
 |  | 1648 | [Sell Diminishing-Valued Colored Balls](https://leetcode.com/problems/sell-diminishing-valued-colored-balls/) | `Medium` | 👉[Click Here](https://github.com/dhrupad17/LeetCode_BinarySearchStudyPlanII/blob/main/DAY19P2.md) |
-
-
+| DAY20 | 1201 | [Ugly Number III](https://leetcode.com/problems/ugly-number-iii/) | `Medium` | 👉[Click Here](https://github.com/dhrupad17/LeetCode_BinarySearchStudyPlanII/blob/main/DAY20P1.md) |
+|  | 911 | [Online Election](https://leetcode.com/problems/online-election/) | `Medium` | 👉[Click Here](https://github.com/dhrupad17/LeetCode_BinarySearchStudyPlanII/blob/main/DAY20P2.md) |
 ## 🛠 Skills
 `Binary Search`, `Arrays`, `Data Structures`, `java`
 
